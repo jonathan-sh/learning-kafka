@@ -1,4 +1,12 @@
-java/.idea/
+#java
+java/**/.idea
 java/**/target
 java/**/*.iml
-java/.project
+java/**/.project
+java/**/.settings
+java/**/.classpath
+
+#node
+node_modules/
+package-lock.json
+yarn*
