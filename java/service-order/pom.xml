@@ -9,13 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>service-order</artifactId>
     <dependencies>
-        <dependency>
-            <groupId>org.4fun</groupId>
-            <artifactId>commom-kafka</artifactId>
-            <version>1</version>
-        </dependency>
         <dependency>
             <groupId>forfun</groupId>
             <artifactId>commom-kafka</artifactId>
@@ -24,5 +18,6 @@
         </dependency>
     </dependencies>
 
+    <artifactId>service-order</artifactId>
 
 </project>
